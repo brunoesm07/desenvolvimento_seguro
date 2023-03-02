@@ -1,0 +1,1 @@
+https://www.iriusrisk.com/resources-blog/securing-the-software-supply-chain
