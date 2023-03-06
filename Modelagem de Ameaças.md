@@ -195,7 +195,7 @@ Exemplo:
 
 Todas as informações coletadas nos permitem modelar com precisão o aplicativo por meio do uso de Diagramas de Fluxo de Dados ( DFDs ). Os DFDs nos permitirão entender melhor o aplicativo, fornecendo uma representação visual de como o aplicativo processa os dados.
 
-![[Diagrama de fluxo de dados.png]]
+![imagem](https://github.com/brunoesm07/desenvolvimento_seguro/blob/552f89a7cdb2af3b9b160432992b22d6e806c48b/assets/Diagrama%20de%20fluxo%20de%20dados.png)
 
 A quantidade de informações a serem incluídas no diagrama de fluxo de dados depende de alguns fatores-chave:
 
