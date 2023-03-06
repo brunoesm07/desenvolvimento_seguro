@@ -225,7 +225,7 @@ Determinar e classificar ameaças
 
 
 
-### Terminologias Utilizadas em Modelagem de Ameaças
+# Terminologias Utilizadas em Modelagem de Ameaças
 
 Em modelagem de ameaças utilizam-se algumas terminologias que podem não ser familiares para alguns profissionais, principalmente em início de carreira. Por isso achei útil compartilhar o guia abaixo:  
 
