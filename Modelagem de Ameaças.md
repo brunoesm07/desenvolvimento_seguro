@@ -205,11 +205,11 @@ A quantidade de informações a serem incluídas no diagrama de fluxo de dados d
 
 ### Referências:
 
-Threat Modeling Process OWASP
-Curso de Modelagem de ameaças: identifique riscos na concepção do software - Alura
-O papel do dev no processo de modelagem de ameaças | Izabela Matos - AppSec to Go
-Curso Learning Threat Modeling for Security Professionals - LinkedIn Learning
-Threat Modeling in 2021 with Adam Shostack - DevSecCon (Youtube)
+- Threat Modeling Process OWASP
+- Curso de Modelagem de ameaças: identifique riscos na concepção do software - Alura
+- O papel do dev no processo de modelagem de ameaças | Izabela Matos - AppSec to Go
+- Curso Learning Threat Modeling for Security Professionals - LinkedIn Learning
+- Threat Modeling in 2021 with Adam Shostack - DevSecCon (Youtube)
 
 
 
@@ -222,19 +222,6 @@ Determinar e classificar ameaças
 
 
 
-
-
-###  Links
-
-Threat Modeling Manifesto (https://www.threatmodelingmanifesto.org/)
-Processo de Modelagem de Ameaças (OWASP) (https://owasp.org/www-community/Threat_Modeling_Process)
-Modelagem de ameaças da Microsoft (https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
-
-Ferramentas para Modelagem de Ameaças
-
-Cairis (https://cairis.org/cairis/tmdocsmore/)
-IriusRisk (https://www.iriusrisk.com/threat-modeling-platform)
-Threat Dragon OWASP (https://owasp.org/www-project-threat-dragon/#:~:text=What%20is%20Threat%20Dragon%3F,of%20the%20threat%20modeling%20manifesto.)
 
 
 
@@ -269,3 +256,17 @@ Em modelagem de ameaças utilizam-se algumas terminologias que podem não ser fa
 - **Versionamento** - O versionamento consiste em estratégias para gerenciar as diferentes versões de um código, de um sistema ou de um modelo. É uma forma de administrar as mudanças que são feitas e de garantir mais segurança na transição de uma versão para outra.
 -   **Vulnerabilidade** - uma fraqueza ou brecha em um de nossos sistemas que pode ser explorado por um atacante e causar danos.
 
+
+
+
+###  Links
+
+- Threat Modeling Manifesto (https://www.threatmodelingmanifesto.org/)
+- Processo de Modelagem de Ameaças (OWASP) (https://owasp.org/www-community/Threat_Modeling_Process)
+- Modelagem de ameaças da Microsoft (https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
+
+**Ferramentas para Modelagem de Ameaças**
+
+- Cairis (https://cairis.org/cairis/tmdocsmore/)
+- IriusRisk (https://www.iriusrisk.com/threat-modeling-platform)
+- Threat Dragon OWASP (https://owasp.org/www-project-threat-dragon/#:~:text=What%20is%20Threat%20Dragon%3F,of%20the%20threat%20modeling%20manifesto.)
