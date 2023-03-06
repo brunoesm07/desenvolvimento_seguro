@@ -108,7 +108,7 @@ As APIs que usam autenticação de chave de API (API Keys) geralmente permitem q
 Quando o servidor retorna uma resposta, um número de três dígitos também é enviado como parte da resposta. Esse número de três dígitos também é conhecido como "código de status".
 
 | Nome | Faixa de códigos de status |
-| ------ | : ------ : |
+| ------ | ------ |
 | Informativo | 100-199 |
 | Bem-sucedido | 200-299 |
 | Redirecionamento | 300-399 |
