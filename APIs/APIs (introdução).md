@@ -43,7 +43,7 @@ Há mais de uma maneira de criar e consumir APIs. Alguns tipos de arquitetura q
 
 As APIs REST se comunicam por meio de solicitações HTTP para executar operações CRUD (ou criar, ler, atualizar e excluir). Algumas características das APIs REST incluem não armazenar o estado da sessão entre as solicitações, a capacidade de armazenar em cache e a capacidade de enviar e receber vários tipos de dados.
 
-APIs REST seguem [seis princípios](../APIs_REST) de design que são os seguintes:
+APIs REST seguem [seis princípios](https://github.com/brunoesm07/desenvolvimento_seguro/blob/main/APIs/APIs_REST.md#princ%C3%ADpios-de-api-rest) de design que são os seguintes:
 
 1. Separação cliente-servidor
 2. Stateless
